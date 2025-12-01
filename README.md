@@ -14,7 +14,7 @@ Data for ReSkmer is described here, but is found in this [Google Drive](https://
 |-----------------------------|------------------------|------------------|--------|
 | *Selaginella moellendorffii* | GCF_000143415.4        | 208,216,466      | 0.42   |
 | *Chondrus crispus*          | GCF_000350225.1        | 103,988,016      | 0.51   |
-| *Ostrea edulis*             | GCF_947568905.1*[https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_947568905.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED]       | 98,251,904       | 0.64   |
+| *Ostrea edulis*             | [GCF_947568905.1*](https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCF_947568905.1/download?include_annotation_type=GENOME_FASTA&include_annotation_type=GENOME_GFF&include_annotation_type=RNA_FASTA&include_annotation_type=CDS_FASTA&include_annotation_type=PROT_FASTA&include_annotation_type=SEQUENCE_REPORT&hydrated=FULLY_HYDRATED)       | 98,251,904       | 0.64   |
 | *Nemopilema nomurai*        | GCA_003864495.1        | 210,407,387      | 0.71   |
 | *Brachionus plicatilis*     | GCA_010279815.1        | 101,125,688      | 0.85   |
 | *Hirudo medicinalis*        | GCA_011800805.1        | 155,214,494      | 0.90   |
