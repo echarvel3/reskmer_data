@@ -1,6 +1,5 @@
 # ReSkmer Data
 Scripts for ReSkmer paper.
-Data for ReSkmer is described here, but is found in this [Google Drive](https://drive.google.com/drive/folders/1ZEV9GtrLZyszui1nTkQKkjJYdT3dSju_?usp=drive_link)
 ## Simulations:
 ### Scripts:
 | Script Title | Use |
@@ -22,13 +21,13 @@ Data for ReSkmer is described here, but is found in this [Google Drive](https://
 **Table**: **Assemblies used in simulations.** Only a single scaffold (NC_079166.1) of the *O. edulis* assembly is represented in our simulations to provide a uniqueness ratio in between other genomes.
 
 ### Population Distances Simulations:
-Includes _genome skims_ , _distance matrices_ , and _parameter estimates_ generated for _one_ of the replicates used in the ReSkmer paper for all genomes (club moss, moss, oyster chromosome, nematode, rotifer, leech). (Distances from 0.1% to 2%)
+Includes _distance matrices_ generated for all 10 replicates used in the ReSkmer paper for all genomes (club moss, moss, oyster chromosome, nematode, rotifer, leech). (Distances from 0.1% to 2%)
 
 ### Phylogenetic-Level Distances:
-Includes _genome skims_ , _distance matrices_ , and _parameter estimates_ generated for _one_ of the replicates used in the ReSkmer paper for two genomes (moss and rotifer). (Distances from 5% to 20%)
+Includes _distance matrices_  generated for all 5 of the replicates used in the ReSkmer paper for two genomes (moss and rotifer). (Distances from 5% to 20%)
 
 ### Low-Quality Assembly Experiments:
-Includes _re-assembled_ genomes (at 10X and 50X),  _distance matrices_ , and _parameter estimates_ used in the ReSkmer paper for all genomes. Skims used ReSkmer are the same ones used for the _Population Distance Simulations_.
+Includes _distance matrices_ using reassembled reference genomes (at 10X and 50X for both Spades and Megathit assemblers). Skims used ReSkmer-noref are the same ones used for the _Population Distance Simulations_.
 
 ### High-Error Experiments:
 Includes _genome skims_ , _distance matrices_ , and _parameter estimates_ generated for _one_ of the replicates used in the ReSkmer paper for two genomes (moss and rotifer). (Distances from 0% and 1%, phred scores _25, 23, 20_).
@@ -65,3 +64,11 @@ Libraries, distance matrices, and Respect-estimated spectra for _Apis mellifera_
 **Dataset Analyzed:** [Drosophila Genome Nexus](https://doi.org/10.1534/genetics.115.174664) *_a subset of samples were used in this analysis (only belonging to Langley and Pool labs)_
 
 Libraries, distance matrices, and Respect-estimated spectra for _Drosophila melanogaster_ populations.
+
+### Diploid Data:
+Distance matrices for populations.
+
+### _Enterococcus faecium_:
+
+Inlcudes distance matrices for all Sequence Types.
+
