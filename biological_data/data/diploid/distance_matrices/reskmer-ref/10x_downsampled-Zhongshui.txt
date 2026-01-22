@@ -1,0 +1,11 @@
+sample	SRR27281412	SRR27281424	SRR27281435	SRR27281446	SRR27281455	SRR27281466	SRR27281477	SRR27281489	SRR27281516	SRR27281517
+SRR27281412	0.0	None	None	None	None	None	None	None	None	None
+SRR27281424	None	0.0	None	None	None	None	None	None	None	None
+SRR27281435	None	None	0.0	None	None	None	None	None	None	None
+SRR27281446	None	None	None	0.0	None	None	None	None	None	None
+SRR27281455	None	None	None	None	0.0	None	None	None	None	None
+SRR27281466	None	None	None	None	None	0.0	None	None	None	None
+SRR27281477	None	None	None	None	None	None	0.0	None	None	None
+SRR27281489	None	None	None	None	None	None	None	0.0	None	None
+SRR27281516	None	None	None	None	None	None	None	None	0.0	None
+SRR27281517	None	None	None	None	None	None	None	None	None	0.0

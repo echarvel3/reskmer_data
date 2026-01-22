@@ -1,0 +1,11 @@
+sample	SRR1607346	SRR1607348	SRR1607350	SRR1607351	SRR1607354	SRR1607356	SRR1607357	SRR1607359	SRR1607361	SRR1607363
+SRR1607346	0.0	None	None	None	None	None	None	None	None	None
+SRR1607348	None	0.0	None	None	None	None	None	None	None	None
+SRR1607350	None	None	0.0	None	None	None	None	None	None	None
+SRR1607351	None	None	None	0.0	None	None	None	None	None	None
+SRR1607354	None	None	None	None	0.0	None	None	None	None	None
+SRR1607356	None	None	None	None	None	0.0	None	None	None	None
+SRR1607357	None	None	None	None	None	None	0.0	None	None	None
+SRR1607359	None	None	None	None	None	None	None	0.0	None	None
+SRR1607361	None	None	None	None	None	None	None	None	0.0	None
+SRR1607363	None	None	None	None	None	None	None	None	None	0.0

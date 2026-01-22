@@ -1,0 +1,6 @@
+sample	unclassified-seq_SRR32379456	unclassified-seq_SRR32379457	unclassified-seq_SRR32379458	unclassified-seq_SRR32379459	unclassified-seq_SRR32379460
+unclassified-seq_SRR32379456	0.0	0.00464	0.00487	0.00508	0.00443
+unclassified-seq_SRR32379457	0.00454	0.0	0.00527	0.00542	0.00479
+unclassified-seq_SRR32379458	0.00503	0.00555	0.0	0.00567	0.00509
+unclassified-seq_SRR32379459	0.00502	0.00546	0.00542	0.0	0.00447
+unclassified-seq_SRR32379460	0.00452	0.00498	0.00502	0.00462	0.0

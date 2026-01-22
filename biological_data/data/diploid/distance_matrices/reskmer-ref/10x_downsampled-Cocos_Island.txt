@@ -1,0 +1,9 @@
+sample	SRR1607513	SRR1607514	SRR1607517	SRR1607518	SRR1607520	SRR1607522	SRR1607528	SRR1607531
+SRR1607513	0.0	None	None	None	None	None	None	None
+SRR1607514	None	0.0	None	None	None	None	None	None
+SRR1607517	None	None	0.0	None	None	None	None	None
+SRR1607518	None	None	None	0.0	None	None	None	None
+SRR1607520	None	None	None	None	0.0	None	None	None
+SRR1607522	None	None	None	None	None	0.0	None	None
+SRR1607528	None	None	None	None	None	None	0.0	None
+SRR1607531	None	None	None	None	None	None	None	0.0
