@@ -66,9 +66,12 @@ Libraries, distance matrices, and Respect-estimated spectra for _Apis mellifera_
 Libraries, distance matrices, and Respect-estimated spectra for _Drosophila melanogaster_ populations.
 
 ### Diploid Data:
-Distance matrices for populations.
+**Dataset Analyzed:** All populations and theta values taken from [Melendez et al., 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC13106921/). Additional plant dataset comes from (Peng et al., 2025)[https://pmc.ncbi.nlm.nih.gov/articles/PMC12496536/].
+
+Contains distance matrices for all methods and ANGSD theta values.
 
 ### _Enterococcus faecium_:
+**Dataset Analyzed:** Three _enterococcus faecium_ STs from [Mustapha et al., 2022](https://journals.asm.org/doi/10.1128/msystems.01384-21).
 
-Inlcudes distance matrices for all Sequence Types.
+Inlcudes distance matrices for three _e. faecium_ STs and all methods.
 
