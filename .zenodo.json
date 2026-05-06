@@ -1,0 +1,38 @@
+{
+  "title": "ReSkmer Data and Scripts",
+  "description": "ReSkmer supplemental data and scripts, published for ease of reproducibility. Includes simulation data, empirical datasets, and analysis scripts associated with the manuscript."
+  "license": "other-open",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Charvel, Eduardo",
+      "affiliation": "Bioinformatics & Systems Biology Graduate Program, University of California San Diego"
+    },
+    {
+      "name": "Thomas, Isaac",
+      "affiliation": "Department of Computer Science & Engineering, University of California San Diego"
+    },
+    {
+      "name": "Alves Monteiro, Homère J.",
+      "affiliation": "Center for Evolutionary Hologenomics, GLOBE Institute, University of Copenhagen"
+    },
+    {
+      "name": "Sarmashghi, Shahab",
+      "affiliation": "Broad Institute of MIT and Harvard"
+    },
+    {
+      "name": "Dunshea, Glenn",
+      "affiliation": "Department of Natural History, Norwegian University of Science and Technology"
+    },
+    {
+      "name": "Bafna, Vineet",
+      "affiliation": "Department of Computer Science & Engineering, University of California San Diego"
+    },
+    {
+      "name": "Mirarab, Siavash",
+      "affiliation": "Department of Electrical & Computer Engineering, University of California San Diego"
+    }
+  ],
+  "keywords": ["genome skimming", "k-mers", "population genetics", "genomic distance"],
+  "access_right": "open"
+}
